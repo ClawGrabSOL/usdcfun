@@ -10,6 +10,9 @@ export const metadata: Metadata = {
   description:
     "Launch your token on pump.fun using USDC. Connect your Phantom wallet and create your meme coin in minutes.",
   keywords: ["pump.fun", "solana", "usdc", "token", "launch", "meme coin", "crypto"],
+  icons: {
+    icon: "/favicon.png",
+  },
 };
 
 export default function RootLayout({
